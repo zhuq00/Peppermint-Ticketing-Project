@@ -18,7 +18,7 @@ The goal was to practice IT service management workflows, apply ITIL-based pract
 
 ## Documentation  
 - Full project workflow and notes: [View Documentation (Google Docs)](https://docs.google.com/document/d/1topuyslJ-QbyeHwPYy2BaY5TYhKo5pij/edit?usp=sharing&ouid=101630941306456974626&rtpof=true&sd=true)  
-- Sample SLA Compliance Report: [Download PDF](docs/SLA_Report_Example.pdf)   
+- Sample SLA Compliance Report: [Download PDF](./docs/SLA_Compliance_Report.pdf)   
 
 ## Project Highlights  
 - Deployed Peppermint ticketing system with Docker + PostgreSQL in WSL2.  
